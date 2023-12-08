@@ -1,7 +1,7 @@
 {
     "name": "juanma386/assistermicro",
-    "description": "AssisterMicro is a litte framework iniciative.",
-    "type": "Framework",
+    "description": "AssisterMicro is a little framework initiative.",
+    "type": "framework",
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
@@ -19,8 +19,8 @@
     ],
     "repositories": [
         {
-        "type": "git",
-        "url": "https://github.com/juanma386/AssisterMicro"
+            "type": "git",
+            "url": "https://github.com/juanma386/AssisterMicro"
         }
     ],
     "minimum-stability": "alpha",
@@ -31,3 +31,4 @@
         "test": "phpunit"
     }
 }
+
