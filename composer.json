@@ -29,6 +29,8 @@
     },
     "scripts": {
         "test": "phpunit"
+    },
+    "require": {
+        "juanma386/php-assists-class": "v0.0.3"
     }
 }
-
