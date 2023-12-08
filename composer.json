@@ -7,7 +7,7 @@
         "psr-4": {
             "AssisterMicroApp\\": "app/",
             "AssisterMicroSystem\\": "system/",
-            "AssisterMicroTest\\": "test/"
+            "AssisterMicroTest\\": "tests/"
         }
     },
     "authors": [
