@@ -1,2 +1,5 @@
 composer.lock
 vendor/
+bin/
+config.ini
+testing.server.log
